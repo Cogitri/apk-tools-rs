@@ -1,5 +1,5 @@
 [package]
-name = "apk-polkit-rs"
+name = "apk-tools-rs"
 version = "0.1.0"
 authors = ["Rasmus Thomsen <oss@cogitri.dev>"]
 edition = "2018"
