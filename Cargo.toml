@@ -1,0 +1,13 @@
+[package]
+name = "apk-polkit-rs"
+version = "0.1.0"
+authors = ["Rasmus Thomsen <oss@cogitri.dev>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[build-dependencies]
+bindgen = "0.53.2"
+
+[dependencies]
+libc = "0.2"
